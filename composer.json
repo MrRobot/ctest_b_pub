@@ -1,0 +1,15 @@
+{
+    "name": "testorg/testpackage",
+    "description": "sample composer app",
+    "type": "project",
+    "require": {
+        "symfony/symfony": "4.3.4",
+        "league/commonmark": "0.18.1"
+    },
+    "authors": [
+        {
+            "name": "OpenSource Maintainer",
+            "email": "opensourceisawesome@demo.demo.com"
+        }
+    ]
+}
