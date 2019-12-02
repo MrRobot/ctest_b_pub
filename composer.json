@@ -3,7 +3,7 @@
     "description": "sample composer app",
     "type": "project",
     "require": {
-        "symfony/symfony": "4.3.4",
+        "symfony/symfony": "4.3.8",
         "league/commonmark": "0.18.3"
     },
     "authors": [
